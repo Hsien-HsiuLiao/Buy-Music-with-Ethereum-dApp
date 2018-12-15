@@ -1,6 +1,14 @@
 # consensys-final-project-dApp
 final project for the Developer Program 2018-2019
 ## What does this project do?
+Accounts have certain levels
+dApp recognizes levels and shows available info
+admin- can update content
+1st level - user can see songs
+2nd - user can see songs and tour dates early
+
+or something for bands, band managers, club owners, fans, tipping, band members
+
 ## How to set up
 ### (run a local development server)
 Implement/ use a library or an EthPM package 
