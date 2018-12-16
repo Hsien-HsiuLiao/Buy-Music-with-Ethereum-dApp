@@ -9,7 +9,7 @@ admin- can update content
 
 #### or something for bands, band managers, club owners, fans, tipping, band members
 #### Admin - can see everything and approve changes, approves and adds band managers by account address
-#### band manager - can submit things
+#### band manager - can add/remove band members, book tour dates
 #### band member -
 #### club owner -
 #### fan
