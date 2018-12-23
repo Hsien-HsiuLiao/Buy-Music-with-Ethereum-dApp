@@ -8,8 +8,8 @@ admin- can update content
 2nd - user can see songs and tour dates early
 
 #### or something for bands, band managers, club owners, fans, tipping, band members
-#### Admin - can see everything and approve changes, approves and adds band managers by account address
-#### band manager - can add/remove band members, book tour dates
+#### Admin - can see everything and approve changes, approves and adds band managers by account address, can see a list of current band managers
+#### band manager - can add/remove band members, book tour dates, add songs and merchandise for sale
 #### band member -
 #### club owner -
 #### fan
