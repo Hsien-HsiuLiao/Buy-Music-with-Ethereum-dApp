@@ -1,13 +1,7 @@
 # consensys-final-project-dApp
 final project for the Developer Program 2018-2019
 ## What does this project do?
-Accounts have certain levels
-dApp recognizes levels and shows available info
-admin- can update content
-1st level - user can see songs
-2nd - user can see songs and tour dates early
 
-#### or something for bands, band managers, club owners, fans, tipping, band members
 #### Admin - can see everything and approve changes, approves and adds band managers by account address, can see a list of current band managers
 #### band manager - can add/remove band members, book tour dates, add songs and merchandise for sale
 #### band member -
