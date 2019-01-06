@@ -30,6 +30,8 @@ Requirements
 ○          Explain why you wrote those tests
 
 ○          Tests run with truffle test
+step 1. Make sure local blockchain is running, $ ganche-cli
+step 2. run $ truffle test
 
  
 
