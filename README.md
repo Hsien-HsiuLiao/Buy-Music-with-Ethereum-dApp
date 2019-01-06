@@ -9,7 +9,7 @@ final project for the Developer Program 2018-2019
 #### fan
 
 ## How to set up
-### (run a local development server)
+### (run a local development server), install MetaMask
 Implement/ use a library or an EthPM package 
 Requirements
 
@@ -19,21 +19,13 @@ Requirements
 
 ○          You should be able to visit a URL and interact with the application
 
-■          App recognizes current account
-
-■          Sign transactions using MetaMask / uPort
-
-■          Contract state is updated
-
-■          Update reflected in UI
+■          Sign transactions using uPort
 
  
 
 ●          Test Requirements:
 
 ○          Write 5 tests for each contract you wrote
-
-■          Solidity or JavaScript
 
 ○          Explain why you wrote those tests
 
