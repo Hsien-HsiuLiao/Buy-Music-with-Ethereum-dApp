@@ -4,3 +4,4 @@ Module 10 https://solidity.readthedocs.io/en/develop/common-patterns.html
 to fail as soon as possible and always throw an exception
 
 included selfdestruct function
+circuit breaker, freeze contract if bugs are found
