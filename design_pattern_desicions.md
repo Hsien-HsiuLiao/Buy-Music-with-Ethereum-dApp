@@ -8,3 +8,4 @@ circuit breaker, freeze contract if bugs are found
 
 include modifiers so that only certain accounts can run certain functions
 
+State Machine design pattern not necessary
