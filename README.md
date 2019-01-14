@@ -79,17 +79,17 @@ step 2. run $ truffle test
 
 ● Future implementations:
 
-    Implement an upgradable design pattern
-    Write a smart contract in LLL or Vyper
+   Implement an upgradable design pattern
+   Write a smart contract in LLL or Vyper
 
 ○  IPFS
 
-    Users can dynamically upload documents to IPFS that are referenced via their smart contract
+   Users can dynamically upload documents to IPFS that are referenced via their smart contract
 
 ■      uPort
 
 ■      Ethereum Name Service
 
-    A name registered on the ENS resolves to the contract, verifiable on rinkeby.etherscan.io/contract_name
+   A name registered on the ENS resolves to the contract, verifiable on rinkeby.etherscan.io/contract_name
 
 ■      Oracle
