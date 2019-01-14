@@ -5,3 +5,6 @@ to fail as soon as possible and always throw an exception
 
 included selfdestruct function
 circuit breaker, freeze contract if bugs are found
+
+include modifiers so that only certain accounts can run certain functions
+
