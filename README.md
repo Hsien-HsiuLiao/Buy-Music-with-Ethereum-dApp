@@ -1,11 +1,11 @@
 # Final project for the ConsenSys Developer Program 2018-2019
 ### What does this project do?
 
-#### Admin - can see everything and approve changes, approves and adds band managers by account address, can see a list of current band managers
-#### band manager - can add/remove band members, book tour dates, add songs and merchandise for sale
-#### band member -
-#### club owner -
-#### fan
+This is a decentralized application that allows the admin/owner to add band managers, and the band managers can then add songs for sale. Visitors can visit the site and purchase songs in Ether which is sent directly to the band manager who subitted the song.  
+
+#### Admin - Adds band managers by account address, can see a list of current band managers
+#### band manager - Can add songs for sale
+#### (future functionality)
 
 ## How to set up
 ### (run a local development server), install MetaMask
