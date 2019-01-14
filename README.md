@@ -1,4 +1,4 @@
-#final project for the ConsenSys Developer Program 2018-2019
+# Final project for the ConsenSys Developer Program 2018-2019
 ### What does this project do?
 
 #### Admin - can see everything and approve changes, approves and adds band managers by account address, can see a list of current band managers
