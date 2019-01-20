@@ -4,6 +4,7 @@
 This is a decentralized application where a visitor can purchase songs for sale. The songs are listed for sale by the band manager who manages the artist/songs. The app admin is the only one that can that add band managers via their account address. Once added, the band managers can then add songs for sale to the site. Visitors can visit the site and purchase songs in Ether which is sent directly to the band manager who subitted the song.  
 
 Note: This project was developed using Truffle v4.1.14 (core: 4.1.14) Solidity v0.4.24 (solc-js)
+(if needed npm install -g truffle@4.1.14)
 
 #### Admin - Adds band managers by account address, can see a list of current band managers
 #### band manager - Can add songs for sale
