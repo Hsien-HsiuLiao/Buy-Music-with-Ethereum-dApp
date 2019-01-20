@@ -26,7 +26,7 @@ The app should now be running in the browser. The first account is set as the ad
 
 
 
-
+## Testing
 step 1. Make sure local blockchain is running, 
 
         $ ganche-cli
