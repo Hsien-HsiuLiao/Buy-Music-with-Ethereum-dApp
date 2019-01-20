@@ -37,9 +37,9 @@ step 2. run
 
  
 
-●          Design Pattern Requirements:
+### Circuit breaker (emergency stop) pattern
+On the Admin panel of the app, there is an Emergency stop button. Once this is pressed, songs can no longer be purchased.
 
-○          Implement a circuit breaker (emergency stop) pattern
 
 ○          What other design patterns have you used / not used?
 
@@ -53,14 +53,7 @@ step 2. run
 
 ○          Explain what measures you’ve taken to ensure that your contracts are not susceptible to common attacks
 
- 
-
-●          Use a library or extend a contract
-
-○          Via EthPM or write your own
-
- 
-
+PoE tutorial, deploy to rinkeby
    Deploy your application onto one of the test networks. Include a document called deployed_addresses.txt that describes where your contracts live (which testnet and address).
 
    Students can verify their source code using etherscan for the appropriate testnet https://etherscan.io/verifyContract 
