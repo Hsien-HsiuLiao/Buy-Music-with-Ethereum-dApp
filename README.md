@@ -22,25 +22,10 @@ In the project directory, run
 
     npm run dev
 
+The app should now be running in the browser. The first account is set as the admin account, and you will be able to add a band manager from here. For testing, we will use Account 2 to copy the address and input it as a band manager. After submitting the address, the list of band managers will be updated in the Admin panel. And if you switch to Account 2 in Metamask, you will now see a Band Manager panel.
 
-Implement/ use a library or an EthPM package 
-Requirements
 
-●          User Interface Requirements:
 
-○          Run the app on a dev server locally for testing/grading
-
-○          You should be able to visit a URL and interact with the application
-
-■          Sign transactions using uPort
-
- 
-
-●          Test Requirements:
-
-○          Explain why you wrote those tests
-
-○          Tests run with truffle test
 
 step 1. Make sure local blockchain is running, 
 
