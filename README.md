@@ -76,10 +76,8 @@ PoE tutorial, deploy to rinkeby
    Students can verify their source code using etherscan for the appropriate testnet https://etherscan.io/verifyContract 
     Evaluators can check by getting the provided contract ABI and calling a function on the deployed contract at https://www.myetherwallet.com/#contracts or checking the verification on etherscan
 
-
-![alt text](screenshots/1.png "Description goes here")
-![alt text](screenshots/2.png "Description goes here")
-![alt text](screenshots/3.png "Description goes here")
+# Screenshots on how to use the app
+![Step 1](screenshots/3.png "Description goes here")
 ![alt text](screenshots/4.png "Description goes here")
 ![alt text](screenshots/5.png "Description goes here")
 ![alt text](screenshots/6.png "Description goes here")
