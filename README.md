@@ -18,6 +18,9 @@ but if needed you can run
 #### Visitor - Anyone with an ethereum account can purchase listed songs for sale
 ##### (future functionality): a song list will be created and linked to the visitor account to view songs that they purchased
 
+### Libraries used:
+SafeMath library from OpenZeppelin was used and imported in BandApp.sol
+
 ## How to set up
 
 To install lite-server and other dependencies, run
