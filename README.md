@@ -13,6 +13,7 @@ Note: This project was developed using Truffle v4.1.14 (core: 4.1.14) Solidity v
 ## How to set up
 ### (run a local development server), install MetaMask
 ![alt text](screenshots/metamask.png "Description goes here")
+
     npm install
 
     ganache-cli
