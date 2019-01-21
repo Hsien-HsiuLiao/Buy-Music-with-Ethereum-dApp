@@ -13,4 +13,6 @@ Allows admin to stop functions from executing
 
 include modifiers so that only certain accounts can run certain functions
 
-#### State Machine design pattern not necessary
+#### State Machine 
+design pattern not necessary, admin can always add band managers and band managers can always add songs for sale
+This could change in the future if it was decided to have a sale on songs, then prices would be reduced for a specified time and shown to visitors
