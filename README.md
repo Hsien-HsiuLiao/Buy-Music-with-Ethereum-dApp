@@ -57,17 +57,12 @@ step 2. In a new terminal window:
 
  
 
-### Circuit breaker (emergency stop) pattern
-On the Admin panel of the app, there is an Emergency stop button. Once this is pressed, songs can no longer be purchased.
+## Circuit breaker (emergency stop) pattern
+On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is pressed, songs can no longer be purchased.
 
+## Design patterns.md
 
-○          What other design patterns have you used / not used?
-
-■          Why did you choose the patterns that you did?
-
-■          Why not others?
-
- 
+## Common attacks 
 
 ●          Security Tools / Common Attacks:
 
