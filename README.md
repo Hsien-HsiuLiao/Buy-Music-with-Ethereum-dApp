@@ -87,10 +87,10 @@ PoE tutorial, deploy to rinkeby
 ![alt text](screenshots/12.png "Once selected, you can click on the address to copy to the clipboard")
 ![alt text](screenshots/13.png "Paste the address into the input box. Pressing submit will update the band manager list")
 ![alt text](screenshots/14.png "Now if you switch to Account 2, you will see a band manager panel and you can add a song for sale")
-![alt text](screenshots/15.png "Change to Account 3. This will serve as a visitor account")
+![alt text](screenshots/15.png "Change to Account 3. This will serve as a visitor account. Notice the account balances")
 ![alt text](screenshots/16.png "You can now see a song for purchase. Click BUY")
 ![alt text](screenshots/17.png "You can see funds have been transferred from Account 3 to Account 2")
-![alt text](screenshots/18.png "Description goes here")
+
 
 
 ### Future implementations:
