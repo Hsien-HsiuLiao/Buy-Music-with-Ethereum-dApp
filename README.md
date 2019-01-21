@@ -35,7 +35,7 @@ In the project directory, run in a separate terminal window:
 then
 
     $ truffle migrate
-next run the app in the browser that has Metamask
+next, to run the app in the browser that has Metamask, type
 
     $ npm run dev
 
