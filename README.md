@@ -77,7 +77,24 @@ PoE tutorial, deploy to rinkeby
     Evaluators can check by getting the provided contract ABI and calling a function on the deployed contract at https://www.myetherwallet.com/#contracts or checking the verification on etherscan
 
 
-![alt text](screenshots/metamask.png "Description goes here")
+![alt text](screenshots/1.png "Description goes here")
+![alt text](screenshots/2.png "Description goes here")
+![alt text](screenshots/3.png "Description goes here")
+![alt text](screenshots/4.png "Description goes here")
+![alt text](screenshots/5.png "Description goes here")
+![alt text](screenshots/6.png "Description goes here")
+![alt text](screenshots/7.png "Description goes here")
+![alt text](screenshots/8.png "Description goes here")
+![alt text](screenshots/9.png "Description goes here")
+![alt text](screenshots/10.png "Description goes here")
+![alt text](screenshots/11.png "Description goes here")
+![alt text](screenshots/12.png "Description goes here")
+![alt text](screenshots/13.png "Description goes here")
+![alt text](screenshots/14.png "Description goes here")
+![alt text](screenshots/15.png "Description goes here")
+![alt text](screenshots/16.png "Description goes here")
+![alt text](screenshots/17.png "Description goes here")
+![alt text](screenshots/18.png "Description goes here")
 
 
 ● Future implementations:
