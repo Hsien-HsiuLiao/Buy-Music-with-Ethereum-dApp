@@ -75,12 +75,12 @@ PoE tutorial, deploy to rinkeby
     Evaluators can check by getting the provided contract ABI and calling a function on the deployed contract at https://www.myetherwallet.com/#contracts or checking the verification on etherscan
 
 # Screenshots on how to use the app
-![Step 1](screenshots/3.png "Description goes here")
-![alt text](screenshots/4.png "Description goes here")
-![alt text](screenshots/5.png "Description goes here")
-![alt text](screenshots/6.png "Description goes here")
-![alt text](screenshots/7.png "Description goes here")
-![alt text](screenshots/8.png "Description goes here")
+![Step 1](screenshots/3.png "Open browser")
+![alt text](screenshots/4.png "Click on Metamask, click on Import...")
+![alt text](screenshots/5.png "A new tab may open, scroll down and click Import...")
+![alt text](screenshots/6.png "Paste seed phrase from ganache-cli, enter password and click")
+![alt text](screenshots/7.png "Metamask may prompt with a Connect request")
+![alt text](screenshots/8.png "The Band App loads and shows the admin panel")
 ![alt text](screenshots/9.png "Description goes here")
 ![alt text](screenshots/10.png "Description goes here")
 ![alt text](screenshots/11.png "Description goes here")
