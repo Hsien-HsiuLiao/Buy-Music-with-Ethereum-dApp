@@ -19,7 +19,7 @@ but if needed you can run
 ##### (future functionality): a song list will be created and linked to the visitor account to view songs that they purchased
 
 ## How to set up
-![alt text](screenshots/metamask.png "Description goes here")
+
 To install lite-server and other dependencies, run
 
     $ npm install
@@ -39,7 +39,7 @@ next run the app in the browser that has Metamask
 
     $ npm run dev
 
-The app should now be running in the browser. The first account is set as the admin account, and you will be able to add a band manager from here. For testing, we will use Account 2 to copy the address and input it as a band manager. After submitting the address, the list of band managers will be updated in the Admin panel. And if you switch to Account 2 in Metamask, you will now see a Band Manager panel.
+The app should now be running in the browser. The first account is set as the admin account, and you will be able to add a band manager from here. For testing, we will use Account 2 to copy the address and input it as a band manager. After submitting the address, the list of band managers will be updated in the Admin panel. And if you switch to Account 2 in Metamask, you will now see a Band Manager panel. Screenshots available at the end.
 
 
 
@@ -75,6 +75,10 @@ PoE tutorial, deploy to rinkeby
 
    Students can verify their source code using etherscan for the appropriate testnet https://etherscan.io/verifyContract 
     Evaluators can check by getting the provided contract ABI and calling a function on the deployed contract at https://www.myetherwallet.com/#contracts or checking the verification on etherscan
+
+
+![alt text](screenshots/metamask.png "Description goes here")
+
 
 ● Future implementations:
 
