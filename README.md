@@ -75,7 +75,9 @@ PoE tutorial, deploy to rinkeby
     Evaluators can check by getting the provided contract ABI and calling a function on the deployed contract at https://www.myetherwallet.com/#contracts or checking the verification on etherscan
 
 # Screenshots on how to use the app
+Open browser
 ![Step 1](screenshots/3.png "Open browser")
+Click on Metamask, click on Import...
 ![alt text](screenshots/4.png "Click on Metamask, click on Import...")
 ![alt text](screenshots/5.png "A new tab may open, scroll down and click Import...")
 ![alt text](screenshots/6.png "Paste seed phrase from ganache-cli, enter password and click")
