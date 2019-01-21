@@ -93,19 +93,16 @@ PoE tutorial, deploy to rinkeby
 ![alt text](screenshots/18.png "Description goes here")
 
 
-● Future implementations:
+### Future implementations:
 
    Implement an upgradable design pattern
+   
    Write a smart contract in LLL or Vyper
 
-○  IPFS
+IPFS -   Users can dynamically upload documents to IPFS that are referenced via their smart contract
 
-   Users can dynamically upload documents to IPFS that are referenced via their smart contract
+uPort
 
-■      uPort
+Ethereum Name Service -   A name registered on the ENS resolves to the contract, verifiable on rinkeby.etherscan.io/contract_name
 
-■      Ethereum Name Service
-
-   A name registered on the ENS resolves to the contract, verifiable on rinkeby.etherscan.io/contract_name
-
-■      Oracle
+Oracle
