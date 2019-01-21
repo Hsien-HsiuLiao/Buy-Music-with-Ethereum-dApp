@@ -1,3 +1,10 @@
+
+○          What other design patterns have you used / not used?
+
+■          Why did you choose the patterns that you did?
+
+■          Why not others?
+
 explains why design patterns were chosen
 
 Module 10 https://solidity.readthedocs.io/en/develop/common-patterns.html
