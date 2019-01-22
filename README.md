@@ -61,6 +61,7 @@ step 2. In a new terminal window:
 On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is pressed, songs can no longer be purchased.
 
 ## Design patterns.md
+[I'm a relative reference to a repository file](../blob/master/design_patterns.md)
 
 ## Common attacks.md
 
