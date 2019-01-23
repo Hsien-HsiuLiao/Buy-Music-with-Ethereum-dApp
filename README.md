@@ -66,7 +66,7 @@ On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is
 ## Common attacks
 [avoiding_common_attacks.md](..//master/avoiding_common_attacks.md)
 
-●          Security Tools / Common Attacks:
+●          Security Tools:
 
 ○          Explain what measures you’ve taken to ensure that your contracts are not susceptible to common attacks
 
