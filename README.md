@@ -16,7 +16,7 @@ but if needed you can run
 #### Admin - Adds band managers by account address, can see a list of current band managers
 #### Band manager - Can add songs for sale
 #### Visitor - Anyone with an ethereum account can purchase listed songs for sale
-##### (future functionality): a song list will be created and linked to the visitor account to view songs that they purchased
+##### (future functionality): a song list will be created and linked to the visitor account to view songs that they purchased, band managers will be able to also add band members and they will have a say in how sales profits are divided
 
 ### Libraries used:
 SafeMath library from OpenZeppelin was used and imported in BandApp.sol
