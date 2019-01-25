@@ -13,10 +13,9 @@ Module 10 https://solidity.readthedocs.io/en/develop/common-patterns.html
 Included require statement to check if msg.sender is owner before executing the rest of the addMgr function
 to fail as soon as possible and always throw an exception
 
-included selfdestruct function
 
 #### Circuit breaker
-Allows admin to stop functions from executing
+Allows admin to stop functions from executing. On the front , there is an Emergency Stop button that only the admin can see. When pressed , purchasing a song will no longer work.
 
 include modifiers so that only certain accounts can run certain functions
 
