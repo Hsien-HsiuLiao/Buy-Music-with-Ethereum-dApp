@@ -7,7 +7,7 @@ Note: This project was developed using Truffle v4.1.14 (core: 4.1.14) Solidity v
 
 truffle.js is specified to use solc version 0.4.24
 
-but if needed you can run 
+but if needed, try running:
 
     $ npm install -g truffle@4.1.14
         
