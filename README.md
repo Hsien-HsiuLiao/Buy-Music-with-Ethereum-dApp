@@ -66,9 +66,8 @@ On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is
 ## Common attacks
 [avoiding_common_attacks.md](..//master/avoiding_common_attacks.md)
 
-●          Security Tools: https://tool.smartdec.net/
 
-○          Explain what measures you’ve taken to ensure that your contracts are not susceptible to common attacks
+
 
 PoE tutorial, deploy to rinkeby
    Deploy your application onto one of the test networks. Include a document called deployed_addresses.txt that describes where your contracts live (which testnet and address).
