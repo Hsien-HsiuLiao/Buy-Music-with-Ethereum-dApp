@@ -1,5 +1,5 @@
 # Avoiding common attacks
-what measures were taken to ensure contracts are not susceptible to common attacks. (Module 9 Lesson 3)
+
 ## Integer arithmetic overflow
 SafeMath library used to increment counter by 1, library checks to make sure integer does not wraparound and overflow
 
@@ -7,7 +7,7 @@ SafeMath library used to increment counter by 1, library checks to make sure int
 Currently in the smart contract, no functions call external functions
 
 ## DoS with Block Gas Limit
-Although not fully implemented, I have been working on a modifier to check if the input address is a band manager. Since the number of band managers can increase, and I am using a for loop to check if the address is in the array, I need to consider checking for gas usage so that executing the modifier does not run out of gas and fail. 
+Although not fully implemented, I have been working on a modifier to check if the input address is a band manager. Since the number of band managers can increase, and I am using a for loop to check if the address is in the array, I need to consider checking for gas usage so that executing the modifier does not run out of gas and fail. I will also investigate other ways to verify a band manager besides looping over an array.
 
 ## Tx.origin problem
 msg.sender is always used in the contract
