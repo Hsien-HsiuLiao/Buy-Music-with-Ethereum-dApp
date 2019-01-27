@@ -19,7 +19,8 @@ to fail as soon as possible and always throw an exception
 #### Circuit breaker
 Allows admin to stop functions from executing. On the front , there is an Emergency Stop button that only the admin can see. When pressed , purchasing a song will no longer work.
 
-include modifiers so that only certain accounts can run certain functions
+#### Restrciting access
+Included modifiers and require statements so that only certain accounts can run certain functions
 
 #### State Machine 
 design pattern not necessary, admin can always add band managers and band managers can always add songs for sale
