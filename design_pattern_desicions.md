@@ -25,3 +25,6 @@ Included modifiers and require statements so that only certain accounts can run 
 #### State Machine 
 design pattern not necessary, admin can always add band managers and band managers can always add songs for sale
 This could change in the future if it was decided to have a sale on songs, then prices would be reduced for a specified time and shown to visitors
+
+#### Withdrawal from Contracts
+Would like to investigate if this is a needed method, instead ofthe current implementation of tranferring funds to the seller during a sale
