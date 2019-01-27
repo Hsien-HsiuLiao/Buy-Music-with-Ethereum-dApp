@@ -51,7 +51,7 @@ step 1. Make sure local blockchain is running,
 
     $ ganche-cli
 
-step 2. In a new terminal window:
+step 2. In the project directory, run in a new terminal window:
 
     $ truffle test
 
