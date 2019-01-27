@@ -58,7 +58,7 @@ step 2. In the project directory, run in a new terminal window:
  
 
 ## Circuit breaker (emergency stop) pattern
-On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is pressed, songs can no longer be purchased.
+On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is pressed, songs can no longer be purchased. The first account in MetaMask is set as the admin.
 
 ## Design patterns
 [design_pattern_desicions.md](..//master/design_pattern_desicions.md)
