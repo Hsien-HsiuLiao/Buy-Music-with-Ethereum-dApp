@@ -14,7 +14,7 @@ The require statement is first so the function will fail as soon as possible and
 
 
 #### Circuit breaker
-Allows admin to stop functions from executing. On the front , there is an Emergency Stop button that only the admin can see. When pressed , purchasing a song will no longer work.
+Allows admin to stop functions from executing. On the front , there is an Emergency Stop button that only the admin can see. When pressed , purchasing a song will no longer work. Would be necessary when any problems are discovered.
 
 #### Restrciting access
 Included modifiers and require statements so that only certain accounts can run certain functions. Only an admin can see and perform admin functions. And only a band manager can see and perform band manager functions.
