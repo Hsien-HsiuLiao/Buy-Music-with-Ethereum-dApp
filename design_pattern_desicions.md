@@ -9,7 +9,7 @@
 Module 10 https://solidity.readthedocs.io/en/develop/common-patterns.html
 
 #### Fail early, Fail loud 
-Included require statement to check if msg.sender is owner before executing the rest of the addMgr function
+Included require statement instead of if statement to check if msg.sender is owner before executing the rest of the addMgr function
 to fail as soon as possible and always throw an exception
 
 
