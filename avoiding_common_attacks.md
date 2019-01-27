@@ -3,6 +3,9 @@ what measures were taken to ensure contracts are not susceptible to common attac
 ## Integer arithmetic overflow
 SafeMath library used to increment counter by 1, library checks to make sure integer does not wraparound
 
+## Reentrancy
+Currently in the smart contract, no functions call external functions
+
 ## tx.origin problem
 msg.sender is always used in the contract
 
