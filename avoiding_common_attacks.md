@@ -6,6 +6,9 @@ SafeMath library used to increment counter by 1, library checks to make sure int
 ## Reentrancy
 Currently in the smart contract, no functions call external functions
 
+## DoS with Block Gas Limit
+Although not fully implemented, I have been working on a modifier to check if the input address is a band manager. Since the number of band managers can increase, and I am using a for loop to check if the address is in the array, I need to consider checking for gas usage. 
+
 ## tx.origin problem
 msg.sender is always used in the contract
 
