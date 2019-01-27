@@ -7,13 +7,11 @@ SafeMath library used to increment counter by 1, library checks to make sure int
 Currently in the smart contract, no functions call external functions
 
 ## DoS with Block Gas Limit
-Although not fully implemented, I have been working on a modifier to check if the input address is a band manager. Since the number of band managers can increase, and I am using a for loop to check if the address is in the array, I need to consider checking for gas usage. 
+Although not fully implemented, I have been working on a modifier to check if the input address is a band manager. Since the number of band managers can increase, and I am using a for loop to check if the address is in the array, I need to consider checking for gas usage so that executing the modifier does not run out of gas and fail. 
 
-## tx.origin problem
+## Tx.origin problem
 msg.sender is always used in the contract
 
-## Gas limits
-no loops are currently used in the contract
 
 ## Poison data
 For song input, the type is set to text for song name and number for price on the front end. If an incorrect address is input for a band manager, the band manager panel will not be shown 
