@@ -1,12 +1,6 @@
 
 # Design Pattern Decisions
 
-○          What other design patterns have you used / not used?
-
-■          Why not others?
-
-
-Module 10 https://solidity.readthedocs.io/en/develop/common-patterns.html
 
 #### Fail early, Fail loud 
 Included require statement (instead of if statement) to check if msg.sender is owner before executing the rest of the addMgr function.
