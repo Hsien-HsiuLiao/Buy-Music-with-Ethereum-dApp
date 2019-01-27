@@ -77,11 +77,7 @@ On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is
 
 
 
-PoE tutorial, deploy to rinkeby
-   Deploy your application onto one of the test networks. Include a document called deployed_addresses.txt that describes where your contracts live (which testnet and address).
 
-   Students can verify their source code using etherscan for the appropriate testnet https://etherscan.io/verifyContract 
-    Evaluators can check by getting the provided contract ABI and calling a function on the deployed contract at https://www.myetherwallet.com/#contracts or checking the verification on etherscan
 
 # Screenshots on how to use the app
 Open browser
