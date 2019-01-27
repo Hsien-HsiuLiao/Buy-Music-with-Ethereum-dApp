@@ -7,7 +7,9 @@ Note: This project was developed using Truffle v4.1.14 (core: 4.1.14) Solidity v
 
 truffle.js is specified to use solc version 0.4.24
 
-but if needed, try running:
+(but if needed, try running:)
+
+    $ npm uninstall truffle
 
     $ npm install -g truffle@4.1.14
         
@@ -22,6 +24,8 @@ but if needed, try running:
 SafeMath library from OpenZeppelin was used and imported in BandApp.sol
 
 ## How to set up
+
+Clone the repository
 
 To install lite-server and other dependencies, run
 
