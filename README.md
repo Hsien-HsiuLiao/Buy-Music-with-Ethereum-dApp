@@ -84,6 +84,7 @@ Open browser
 ![Step 1](screenshots/3.png "Open browser")
 Click on Metamask, click on Import...
 ![alt text](screenshots/4.png "Click on Metamask, click on Import...")
+A new tab may open, scroll down and click Import...
 ![alt text](screenshots/5.png "A new tab may open, scroll down and click Import...")
 ![alt text](screenshots/6.png "Paste seed phrase from ganache-cli, enter password and click")
 ![alt text](screenshots/7.png "Metamask may prompt with a Connect request")
