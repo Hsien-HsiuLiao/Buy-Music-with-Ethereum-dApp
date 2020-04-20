@@ -114,3 +114,5 @@ uPort
 Ethereum Name Service -   A name registered on the ENS resolves to the contract, verifiable on rinkeby.etherscan.io/contract_name
 
 Oracle
+
+Use UjoMusic API for sample songs for sale https://api.ujomusic.com/api/musicreleases
