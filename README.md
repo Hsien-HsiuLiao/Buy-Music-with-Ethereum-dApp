@@ -116,3 +116,5 @@ Ethereum Name Service -   A name registered on the ENS resolves to the contract,
 Oracle
 
 Use UjoMusic API for sample songs for sale https://api.ujomusic.com/api/musicreleases
+
+implement e-commerce https://www.youtube.com/watch?v=wPQ1-33teR4
