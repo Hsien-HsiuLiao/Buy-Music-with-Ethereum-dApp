@@ -120,3 +120,10 @@ Use UjoMusic API for sample songs for sale https://api.ujomusic.com/api/musicrel
 implement e-commerce https://www.youtube.com/watch?v=wPQ1-33teR4
 
 implement multi sig wallet for payments (all or majority of band members agree on profit split?)
+
+update solidity contract 0.6.0 - done
+
+update tests
+
+update front end to react
+
